@@ -88,6 +88,19 @@ textarea {
    ========================================================================== */
 
 /* TODO add own styles here */
+.fullScreen {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  background-color: #DFF6FF;
+}
+
+.center {
+  text-align: center;
+  font-size: 8rem;
+  color: #06283D;
+}
 
 
 /* ==========================================================================
